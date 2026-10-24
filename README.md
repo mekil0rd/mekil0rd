@@ -45,10 +45,6 @@ My portfolio spans software, trading tools, e-commerce, real estate, media, and 
 | [WA Checker](https://wa-checker.com) | Communication tools | WhatsApp number verification and management. |
 | [Auto Linkers](https://auto-linkers.com) | Automation | Windows software for LinkedIn networking workflows. |
 
-## Community tools
-
-- [Windows PATH troubleshooting helper](https://github.com/mekil0rd/chatgpt-computer-use-path-fix): a PowerShell helper for the ChatGPT Computer Use app-server launch error.
-
 ## Tools & interests
 
 `Python` `MQL5` `MetaTrader 5` `PowerShell` `Windows` `Automation` `SEO`

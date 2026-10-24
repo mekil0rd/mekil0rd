@@ -1,11 +1,11 @@
 <div align="center">
 
 # Malek Alahmer
-### Python & MQL5 Developer � Entrepreneur � Creator of Gold Catalyst EA
+### Python & MQL5 Developer · Entrepreneur · Creator of Gold Catalyst EA
 
 Building practical software, trading automation, and digital businesses.
 
-[Website](https://goldcatalyst-ea.com) � [MQL5](https://www.mql5.com/en/users/mlookl0rd) � [YouTube](https://www.youtube.com/@mekimalek) � [Contact](mailto:support@goldcatalyst-ea.com)
+[Website](https://goldcatalyst-ea.com) · [MQL5](https://www.mql5.com/en/users/mlookl0rd) · [YouTube](https://www.youtube.com/@mekimalek) · [Contact](mailto:support@goldcatalyst-ea.com)
 
 **Precision. Research. Continuous improvement.**
 
@@ -65,6 +65,6 @@ For software inquiries, project discussions, and business contact:
 
 <div align="center">
 
-Malek Alahmer � LUXURYDOGGIES LIMITED
+Malek Alahmer · LUXURYDOGGIES LIMITED
 
 </div>
